@@ -4,15 +4,15 @@ To do local GP2GP England development, follow the below steps to setup up the ne
 
 We need to setup and configure the below application to be able to run GP2GP England locally.
 
-PDS Mock – to fetch the patient details
+- PDS Mock – to fetch the patient details
 
-SDS Mock – to fetch the organisation details and its service details
+- SDS Mock – to fetch the organisation details and its service details
 
-Spine tool – used to run the GP2GP flow
+- Spine tool – used to run the GP2GP flow
 
-Inbound MHS – to receive PDS General update success response
+- Inbound MHS – to receive PDS General update success response
 
-GP2GP MHS – to receive GP2GP messages like EHR Request, EHR Extract & Acknowledgement.
+- GP2GP MHS – to receive GP2GP messages like EHR Request, EHR Extract & Acknowledgement.
 
 Before we setup the above application we have to configure EMIS Web to support GP2GP and other dependant services.
 
